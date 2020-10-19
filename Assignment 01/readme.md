@@ -14,7 +14,7 @@ CHAR_BIT                          8	                     number of bits in a byt
 CHAR_MIN                         -128	                         Minimum value for char 
 CHAR_MAX	                 +127	                       Maximum value for char
 
-SCHAR_MIN	                 -128	                  Minimum value for signed char
+SCHAR_MIN	                 -128	                   Minimum value for signed char
 SCHAR_MAX	                 +127	                   Maximum value for signed char
 
 UCHAR_MAX	                  255	                   Maximum value for unsigned char
