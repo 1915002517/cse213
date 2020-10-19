@@ -1,6 +1,6 @@
 # [07. List All Character and Integer Data Types Maximum and Minimum value(i.e. Range) a variable can store (Use limits.h).](https://github.com/1915002517/cse213/blob/main/Assignment%2001/07.c)
+## have to use limits.h after #include<stdio.h> library function
 ```c
-have to use limits.h after #include<stdio.h> library function
 #include<stdio.h>
 #include<limits.h>
 int main()
