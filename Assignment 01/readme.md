@@ -8,7 +8,7 @@ int main()
 return 0;
 }
 
-Macro Constants                Value	                          Description
+Macro Constants                  Value	                            Description
 CHAR_BIT                          8	                       number of bits in a byte
 
 CHAR_MIN                         -128	                        Minimum value for char 
