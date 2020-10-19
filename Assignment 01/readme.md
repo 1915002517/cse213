@@ -20,17 +20,17 @@ Macro Constants     	      Value	                        Description
  UCHAR_MAX	               255	                maximum value for an unsigned char.
 
 
-  INT_MIN	            -2147483648	                 minimum value for an int.
-  INT_MAX	            +2147483647	                 maximum value for an int.
+  INT_MIN	            -2147483648	                  minimum value for an int.
+  INT_MAX	            +2147483647	                  maximum value for an int.
   
- SHRT_MIN	              -32768	                 minimum value for a short int.
- SHRT_MAX	              +32767	                 maximum value for a short int.
+ SHRT_MIN	              -32768	                   minimum value for a short int.
+ SHRT_MAX	              +32767	                   maximum value for a short int.
  
- USHRT_MAX	             65535	             maximum value for an unsigned short int.
- UINT_MAX	            4294967295	              maximum value for an unsigned int.
+ USHRT_MAX	             65535	               maximum value for an unsigned short int.
+ UINT_MAX	            4294967295	                maximum value for an unsigned int.
  
  LONG_MIN	            -9223372036854775808	            minimum value for a long int.
- LONG_MAX      	              +9223372036854775807	            maximum value for a long int.
+ LONG_MAX      	            +9223372036854775807	              maximum value for a long int.
  
- ULONG_MAX	          18446744073709551615	       maximum value for an unsigned long int.
+ ULONG_MAX	          18446744073709551615	         maximum value for an unsigned long int.
 ```
