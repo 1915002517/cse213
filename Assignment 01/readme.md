@@ -24,6 +24,6 @@ Macro Constants     	      Value	                        Description
  USHRT_MAX	             65535	             maximum value for an unsigned short int.
  UINT_MAX	            4294967295	              maximum value for an unsigned int.
  LONG_MIN	        -9223372036854775808	            minimum value for a long int.
- LONG_MAX      	  +9223372036854775807	            maximum value for a long int.
+ LONG_MAX      	      +9223372036854775807	            maximum value for a long int.
  ULONG_MAX	       18446744073709551615	       maximum value for an unsigned long int.
 ```
