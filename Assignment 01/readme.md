@@ -8,7 +8,7 @@ int main()
 return 0;
 }
 
-Macro Constants     	   Value	                        Description
+Macro Constants     	      Value	                        Description
   CHAR_BIT	                8	                     number of bits in a byte
   CHAR_MIN	              -128	                  minimum value for type char 
   CHAR_MAX	              +127	                  maximum value for type char
@@ -23,7 +23,7 @@ Macro Constants     	   Value	                        Description
  SHRT_MAX	              +32767	                 maximum value for a short int.
  USHRT_MAX	             65535	             maximum value for an unsigned short int.
  UINT_MAX	            4294967295	              maximum value for an unsigned int.
- LONG_MIN	       -9223372036854775808	            minimum value for a long int.
- LONG_MAX      	 +9223372036854775807	            maximum value for a long int.
-ULONG_MAX	       18446744073709551615	       maximum value for an unsigned long int.
+ LONG_MIN	        -9223372036854775808	            minimum value for a long int.
+ LONG_MAX      	  +9223372036854775807	            maximum value for a long int.
+ ULONG_MAX	       18446744073709551615	       maximum value for an unsigned long int.
 ```
